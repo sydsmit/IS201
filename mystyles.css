@@ -1,0 +1,53 @@
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: center;
+}
+nav {
+    color: #5A393E;
+}
+body {
+    background-color: rgb(255, 213, 238);
+    color: #5A393E;
+}
+
+.externalLink {
+    text-align: center;
+    justify-content: center;
+    color: rgb(252, 19, 159);
+}
+a:hover {
+    color: white;
+}
+a:visited {
+    color: rgb(252, 19, 159);
+}
+
+p{
+    text-align: center;
+    justify-content: center;
+}
+.common {
+  
+    position: absolute;
+}
+.leftmenu {
+    top: 114px;
+    left: 5px;
+    width: 100px;
+    bottom: 64px;
+    z-index: 1;
+    padding-top: 15px;
+    
+}
+.top {
+    color: rgb(252, 19, 159);
+    text-align: center;
+    justify-content: center;
+}
+footer {
+    text-align: center;
+    justify-content: center;
+    color: rgb(252, 19, 159);
+}
